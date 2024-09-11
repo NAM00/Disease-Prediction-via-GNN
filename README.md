@@ -1,4 +1,4 @@
-# Disease-Prediction-via-GCN
+# Disease-Prediction-via-GNN
 A simple implementation of the paper "Disease Prediction via Graph Neural Networks".
 
 ## Requires
